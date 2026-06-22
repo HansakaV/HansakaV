@@ -1,5 +1,5 @@
 # <div align="center">
-# 🚀 **MAHESH HANSAKA**
+#  **MAHESH HANSAKA**
 # *Full Stack Engineer • AI/ML Systems Builder • Deep Learning Enthusiast*
 # </div>
 
